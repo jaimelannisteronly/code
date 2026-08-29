@@ -1,3 +1,4 @@
 Git demo created on 2026-08-29.
 
 This file is a simple practice change for learning the basic Git workflow.
+This line was added in the second demo commit.
